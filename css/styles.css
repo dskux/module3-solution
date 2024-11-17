@@ -1,0 +1,29 @@
+* { 
+    background-color: wheat;
+
+}
+
+
+
+
+
+
+/*****************/
+/**MEDIA QUERIES**/
+/*****************
+
+/****DESKTOP***/
+
+@media (min-width: 500px) {
+    * {
+    background-color: wheat;
+    }
+    
+}
+
+
+/****TABLET***/
+
+
+
+/****MOBILE***/
