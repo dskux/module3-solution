@@ -3,6 +3,11 @@
 
 }
 
+.navbar-toggler__line {
+    width: 1.5rem;
+    height: 0.2rem;
+    background-color: #dcdcdc;
+}
 
 
 
